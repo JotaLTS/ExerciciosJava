@@ -1,4 +1,4 @@
-# 🚀✅Conta Bancária - Concluido✅🚀
+# 🚀✅Simulador de Cinema - Concluido✅🚀
 
 ## By JotaLTS
 
@@ -11,12 +11,7 @@
 #### Projeto feito com o intuito de me aperfeiçoar em Java e colocar em práticas os conhecimentos adquiridos no BootCamp
 
 ### ⚙ Funcionalidades
-* Consultar saldo
-* consultar cheque especial
-* Depositar dinheiro;
-* Sacar dinheiro;
-* Pagar um boleto.
-* Verificar se a conta está usando cheque especial.
+* Retornar o valor de acordo com o tipo do ingresso
 
 ### Pré-requitos
 * Ter instalado o JDK 10+
