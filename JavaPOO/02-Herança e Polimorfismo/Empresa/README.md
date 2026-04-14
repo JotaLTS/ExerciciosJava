@@ -37,7 +37,7 @@
 - Receber pagamentos (recebe um valor que deve ser incrementado no valor em caixa)  
 - Fechar o caixa  
 - Consultar vendas  
-
+---
 ### Pré-requitos
 * Ter instalado o JDK 10+
 * Ter instalado um IDE de sua preferência
