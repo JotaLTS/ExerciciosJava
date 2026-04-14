@@ -43,6 +43,7 @@
 - Métodos:
   - Retornar valor real (valor × número de pessoas)  
   - Aplicar desconto de 5% quando aplicável  
+---
 
 ### Pré-requitos
 * Ter instalado o JDK 10+
