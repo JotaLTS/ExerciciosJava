@@ -11,12 +11,38 @@
 #### Projeto feito com o intuito de me aperfeiçoar em Java e colocar em práticas os conhecimentos adquiridos no BootCamp
 
 ### ⚙ Funcionalidades
-* Consultar saldo
-* consultar cheque especial
-* Depositar dinheiro;
-* Sacar dinheiro;
-* Pagar um boleto.
-* Verificar se a conta está usando cheque especial.
+
+### 🎟 Classe Base `Ingresso`
+- Atributos:
+  - Valor do ingresso  
+  - Nome do filme  
+  - Tipo de exibição (dublado ou legendado)  
+
+- Métodos:
+  - Retornar valor real do ingresso  
+
+---
+
+### 🎫 Classe `MeiaEntrada` (herda de `Ingresso`)
+- Característica:
+  - O valor do ingresso é metade do valor original  
+
+- Métodos:
+  - Retornar valor real (valor ÷ 2)  
+
+---
+
+### 👨‍👩‍👧‍👦 Classe `IngressoFamilia` (herda de `Ingresso`)
+- Atributos adicionais:
+  - Número de pessoas  
+
+- Regras:
+  - O valor do ingresso deve ser multiplicado pelo número de pessoas  
+  - Se o número de pessoas for maior que 3, aplicar desconto de 5%  
+
+- Métodos:
+  - Retornar valor real (valor × número de pessoas)  
+  - Aplicar desconto de 5% quando aplicável  
 
 ### Pré-requitos
 * Ter instalado o JDK 10+
