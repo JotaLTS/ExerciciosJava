@@ -12,7 +12,12 @@
 
 ### ⚙ Funcionalidades
 
-### 🎟 Classe Base `Ingresso`
+### 🎞 Enum `IngressoTipo`
+- Valores possíveis:
+  - DUBLADO  
+  - LEGENDADO  
+
+### 🎟 Classe Abstrata `Ingresso`
 - Atributos:
   - Valor do ingresso  
   - Nome do filme  
@@ -42,7 +47,7 @@
 
 - Métodos:
   - Retornar valor real (valor × número de pessoas)  
-  - Aplicar desconto de 5% quando aplicável  
+  - Aplicar desconto de 5% quando aplicável
 ---
 
 ### Pré-requitos
