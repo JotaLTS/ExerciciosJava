@@ -16,6 +16,7 @@
 - Valores possíveis:
   - DUBLADO  
   - LEGENDADO  
+---
 
 ### 🎟 Classe Abstrata `Ingresso`
 - Atributos:
