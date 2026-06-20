@@ -1,6 +1,6 @@
 # ☕ Repositório de Estudos em Java
 
-Bem-vindo ao meu repositório de **projetos e exercícios em Java**.
+Bem-vindo ao meu repositório de **exercícios em Java**.
 Aqui registro minha evolução na linguagem, praticando lógica de programação, orientação a objetos e desenvolvimento de aplicações.
 
 Este espaço faz parte da minha jornada como estudante de **Análise e Desenvolvimento de Sistemas**, com foco em me tornar um **Desenvolvedor Back-End**.
